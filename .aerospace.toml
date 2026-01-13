@@ -110,10 +110,8 @@ alt-d = 'close'
 
 # See: https://nikitabobko.github.io/AeroSpace/commands#focus
 # alt = option on mac
-alt-h = 'focus up'
 alt-j = 'focus left' 
 alt-k = 'focus right'
-alt-l = 'focus down'
 
 # See: https://nikitabobko.github.io/AeroSpace/commands#workspace
 # alt = option on mac
